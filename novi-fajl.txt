@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master grana promjene
+=======
+nova grana tekst
+eee
+>>>>>>> nova-grana
